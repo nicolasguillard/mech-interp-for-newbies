@@ -1,0 +1,15 @@
+- \[1] L. Bereska and E. Gavves, ‘Mechanistic Interpretability for AI Safety -- A Review’, Aug. 23, 2024, _arXiv_: arXiv:2404.14082. doi: [10.48550/arXiv.2404.14082](https://doi.org/10.48550/arXiv.2404.14082). ^7739fa
+- \[2] H. Zhao et al., ‘Explainability for Large Language Models: A Survey’, Nov. 28, 2023, arXiv: arXiv:2309.01029. doi: [10.48550/arXiv.2309.01029](https://arxiv.org/abs/2309.01029)
+- \[3] A. Zou et al., ‘Representation Engineering: A Top-Down Approach to AI Transparency’, Oct. 10, 2023, arXiv: arXiv:2310.01405. doi: [10.48550/arXiv.2310.01405](https://arxiv.org/abs/2310.01405)
+- \[4] [Neural Networks - Cours on Youtube](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=V6ikSNwUofcbQSs3) - 3Blue1Brown
+- \[4a] [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=VqnSh_yXICKQLF8p)
+- \[4b] [Attention in transformers, step-by-step | DL6](https://youtu.be/eMlx5fFNoYc?si=jECI3SZ7X2CyGUTW)
+- \[4c] [How might LLMs store facts | DL7](https://youtu.be/9-Jl0dxWQs8?si=Eo5qlq7zTmtLzJGE)
+- \[5] [Chapter 1: Transformer Interpretability](https://arena-chapter1-transformer-interp.streamlit.app/) - Arena Curriculum
+- \[6] [A Comprehensive Mechanistic Interpretability - Explainer & Glossary](obsidian://open?vault=_Notes%20IA&file=Connaissance%2F101.%20XAI%2FNotes%2FNotes%20de%20lecture%2FA%20Comprehensive%20Mechanistic%20Interpretability%20-%20Explainer%20%26%20Glossary) - Neel Nanda - 2022-2024 ^d1d4d1
+- \[7]  [Comment interpréter ce qui se passe dans un réseau de neurones ?](https://www.youtube.com/watch?v=n4EnafoZ38Q) - Alexandre TL - 21/06/2024
+- \[8]  [Introduction to Mechanistic Interpretability](https://aisafetyfundamentals.com/blog/introduction-to-mechanistic-interpretability/?_gl=1*1419sh*_ga*MTI4OTkxOTA1NS4xNzA5ODExNDA3*_ga_8W59C8ZY6T*MTczODUyMzI4MC4yMDkuMC4xNzM4NTIzMjgwLjAuMC4w) - Sarah Hastings-Woodhouse - AI Safety Fundamentals (Alignement) - 08/2024 ^e24a21
+- \[9]  [Transformer Circuits Thread articles](https://transformer-circuits.pub/) - Anthropic Alignement Research Team
+- \[9a]  [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html) - 2021
+- \[9b] [Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases](https://transformer-circuits.pub/2022/mech-interp-essay/index.html)" (Chris Olah - Transformer Circuits Thread - Anthropic 06/2022) ^05ff7e
+- \[10]  [Cammarata, et al., "Thread: Circuits", Distill, 2020.](https://distill.pub/2020/circuits/) 
